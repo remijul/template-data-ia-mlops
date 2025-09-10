@@ -1,6 +1,21 @@
 # Template Data IA MLOps
 
-Template de projet GitHub pour les projets data science, IA et MLOps. Structure simple et flexible qui s'adapte à tes besoins.
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![FAST Api](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
+
+<div align="center">
+
+<h3>Template de projet GitHub pour les projets data science, IA et MLOps.
+<br>Structure simple et flexible qui s'adapte à tes besoins.</br></h3>
+
+[Explore the docs](docs/)
+
+</div>
+
+---
 
 ## 🚀 Démarrage rapide
 
