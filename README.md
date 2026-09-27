@@ -9,7 +9,7 @@
 <div align="center">
 
 <h3>Template de projet GitHub pour les projets data science, IA et MLOps.
-<br>Structure simple et flexible qui s'adapte à tes besoins.</br></h3>
+<br>Structure simple et flexible.</br></h3>
 
 [Explore the docs](docs/)
 
